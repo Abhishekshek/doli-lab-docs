@@ -1,0 +1,6 @@
+# DUMMY LOG - LAB TEST DATA
+2026-01-08 08:58:12 INFO  EDCi20 boot sequence started (FW 5.0.3)
+2026-01-08 08:58:14 INFO  Self-test passed
+2026-01-08 08:58:15 WARN  Sensor channel 1: no response
+2026-01-08 08:58:15 ERROR E42 sensor not detected at start-up
+2026-01-08 08:58:16 INFO  Controller entered safe state
